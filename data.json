@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "title": "Manzana",
+    "description": "Fruta roja",
+    "url_img": "https://raw.githubusercontent.com/heidihoge/wikifruta-data/master/imgs/manzana.png",
+    "link": "https://google.com",
+    "origin": "Wikifruta",
+    "category": "Frutas",
+    "date": "2019-01-20 15:54:48"
+  }
+]
